@@ -1,10 +1,10 @@
-﻿namespace UnityST
+﻿namespace WOWMAPEDITOR
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("안녕하세요 동아리 여러분");
+            Console.WriteLine("저는 와우맵에디터 입니다");
         }
     }
 }
